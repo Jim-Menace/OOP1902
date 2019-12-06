@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>JCreator</label>
+	</settings>
+	<users>
+		<user>
+			<path>JCreator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Counter\Counter.jcp</path>
+		</project>
+	</projects>
+</workspace>
