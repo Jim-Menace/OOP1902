@@ -1,7 +1,7 @@
 
 public class Counter {
-	public int base = 0;
-	public int count = 0;	
+	private int base = 0;
+	private int count = 0;	
 	
 	/**
 	 * Increase the value of count by 1.
